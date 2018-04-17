@@ -6,3 +6,5 @@ chown -R us: yourbase*
 should really be
 find -name / *yourbase* -exec chown -R us: {} +
 
+---Added from the CLI----
+Such as dated reference...
